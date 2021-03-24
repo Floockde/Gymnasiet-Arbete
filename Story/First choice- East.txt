@@ -1,0 +1,33 @@
+MC: Let's try East.
+
+Nat: $name picked east. Some time later...
+
+MC: .... It's getting quite cold... It wasn't this cold when I started going down this path...
+
+MC: And everything is eerily quiet. Also it feels like it's getting steeper. 
+
+MC: ... The path fork again. This time I can go north or south.
+
+MC: Or I can go back. 
+
+<Choice>
+1. Going south. (Going back to the start area) 
+
+MC: Let's go south. 
+
+MC: ...
+
+MC: ....
+
+MC: Wait. 
+
+MC: Haven't I been here before?
+
+MC: Am I back at the beginning? 
+
+MC: Are you serious?
+
+--------------------------------------
+
+<Choice>
+2. Going north. (Cave/mountain)

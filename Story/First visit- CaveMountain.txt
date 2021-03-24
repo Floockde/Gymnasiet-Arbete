@@ -1,0 +1,262 @@
+MC: ...
+
+MC: It's still cold. And it's not getting warmer.
+
+MC: Not to mention the wind is getting really wild.
+
+MC: ...
+
+MC: I think I can see the end of the forest.
+
+MC: ....Finally!?
+
+Nat: He runs towards the, what seems like, the end of the forest. 
+
+Nat: Then a huge gust of the wind sweep by $name. Blowing all the leaves and branches towards $name.
+
+Nat: He quickly covers his face. 
+
+MC: Damn..! This wind isn't letting down! I need to shield myself somehow!
+
+MC: Think, think. I need to cover myself.
+
+MC: ...
+
+MC: ..!
+
+MC: I see a cave!
+
+MC: Damn, the wind isn't letting down. At this rate, a tree might get blown towards me.
+
+MC: But that cave doesn't look too safe either. 
+
+MC: I was never good with dark places. 
+
+<Choice>
+1. Don't go in 
+
+MC: Let's not go in. I can't get myself to go in there. 
+
+MC: But this wind is super intense now!
+
+MC: ...
+
+Nat: The wind was blowing so intensely that a withered tree topple over. 
+
+MC: OH SHIT!
+
+Nat: The tree fell over $name. 
+
+Nat: You died.
+
+>Go back to the beginning of the game.
+
+----------------------------------
+
+2. Go into the cave.
+
+MC: Fuck it, I need to go take cover before something fall over me!
+
+Nat: $name quickly makes his way into the cave. 
+
+MC: Fuck, I thought I was gonna die.
+
+MC: The wind outside doesn't seem to be letting down anytime soon.
+
+MC: ... I guess I'll have to explore this area a bit. 
+
+MC: ... I can see something glowing after I walk inside the cave a bit. 
+
+MC: Let's check it out. 
+
+MC: ...
+
+MC: This cave doesn't look like it's been visited by man for a long time. 
+
+MC: I guess I got lucky.
+
+MC: Oh, I can see the source of the light now.
+
+MC: It's a crystal.
+
+MC: a glowing crystal. 
+
+MC: Damn. 
+
+MC: It seems like there's more crystals on the walls the deeper we go in. 
+
+MC: ...
+
+MC: I guess I'll go deeper inside.
+
+Nat: $name makes his way further into the cave. 
+
+Nat: He walks for some time until he finds a massive door. 
+
+MC: Damn. That's a big door.
+
+MC: Hmm... I see 3 levers on the floors. 
+
+MC: ... And a skeleton of a man...
+
+MC: Let's check on the skeletion.
+
+Nat: $name searched the skeleton. 
+
+Nat: The skeletons had a book near it. It seems to have aged quite a bit. 
+
+MC: Hmm... Seems like a diary of some sort. 
+
+MC: Please forgive me for reading...
+
+Book: Hi fam, I'm the best. Look at me, I found the leverssss!! Haha fuck you guys who didn't believe in me.
+
+Book: When I figure out the combinations to these leverrsssss, I, John Chad, will get all the bitches with the treasures found here!! HAHAHAHA!
+
+"Next page"
+
+Book: Damn!! I should never have come to this place!! 
+
+Book: If you pull the wrong cominations on these leverrssss then you get the meet flames firing out of the wall, arrows from behind  or a trapdoor open???? Are you fucking zerious??
+
+Book: I should write down these combinations...
+
+Book: Heheheh, and once I open the doorzzzz, all the bitches will swarm me....!!! HAHAHAHAHA!
+
+Book: "The combinations:
+mid right left = Flames from the walls.
+Right Left mid = Arrows from behind
+
+Mid Left Right = Trapdoor with spikes under
+
+...
+
+Nat: $name read through all the combinations that book has. There is a total of 26 combinations. 
+
+Nat: All of them were the wrong one. The correct combination seems to be "Left Mid Right".
+
+MC: ...
+
+Nat: But $name doesn't know this. He's very bad at maths and memorization. 
+
+Nat: So he'll have to guess it out.
+
+MC: Whelp. I guess I could give it a try. 
+
+<Pick the levers>
+
+Wrong combinations: 
+Nat: And that's game over. Didn't know you're a retard too. Byyeee.
+
+Correct combination:
+
+MC: Woooahhh first try!
+
+Nat: Amazingly, $name got it on first try. I wonder how.
+
+MC: .... I guess I'll have to go in now. 
+
+MC: Also, there was suppose to be treasures written in the book?
+
+MC: I guess I really will have to explore this cave now!
+
+Nat: $name walks into the door. 
+
+Nat: The room beyond the door was spacious. It doesn't feel like it's made for human, but for something bigger, larger entity.
+
+Nat: $Name noticed a large pile of rocks and stones in the middle of the room.
+
+MC: How oddly out of place that pile is...
+
+MC: ...
+
+MC: I don't like this place.
+
+MC: But I'll have to keep exploring until the end at least. If there really is treasures here, I could probably bring it back to the village.
+
+Nat: $Name started looking around the room. 
+
+Nat: Sometime has passed.
+
+MC: I've look around the room for sometime now and checked everywhere in this room but it's literally just a big empty room!
+
+MC: ...
+
+MC: I still haven't check the piles of stones in the middle though...
+
+Nat: $Name moves closer to the pile to inspect it. 
+
+MC: Now that I think about it, this should've been obvious. I wonder why I didn't check it earlier.
+
+Nat: But...
+
+Nat: Right before $Name can touch a stone on the pile. The stones around the piles begin moving slower.
+
+MC: Woahh!
+
+Nat: $Name quickly stumbled to move back from his surprise and almost fall to the ground. 
+
+Nat: After he regains his balance, he looks at the pile of rocks that's began forming into something.
+
+Nat: The rocks are starting out to make a shape of humanoid legs, then torso, arms and then finally, a head. 
+
+MC: ... It's golem! 
+
+MC: Like one of those that was written in my village's children book!
+
+MC: ... I should run away!
+
+Nat: $Name tries to escape from the room, however he then noticed that something was wrong. The door that he came from is now closed. He runs to it.
+
+MC: ...! It's tight shut!!
+
+Nat: Blood rushes to $Name's head. He has to think of a way out of this predicament somehow.
+
+MC: Think! Think! I might be dumb but I'm not a retard..! 
+
+MC: This room looks like some sort of trial.. And if maybe I just pay attention enough, there should be a way out!
+
+Nat: $Name observes the golem. It's moving slowly but it definitely notices $Name. And it's also definitely not friendly. 
+
+Nat: $Name then look at the golem's head.
+
+MC: ... There's something written there. I can just barely make it out. 
+
+MC: ...
+
+MC: "EMETH", it says?
+
+MC: ...
+
+MC: .....
+
+MC: ...!
+
+MC: If I remember correctly, in the book that I read when I was a child, it different said something about a golem with a word on its head...
+
+MC: If we remove a letter from it's head, it should die..!
+
+MC: But how?
+
+Nat: $Name scans the room one more time.
+
+MC: There are segments of the walls that are open now! I didn't notice them because I was trying to run away...
+
+
+
+MC: Let's see... One of them has a sword, I could definitely use it as a weapon against normal monsters but against a giant golem? Might not be a good idea...
+
+MC: The other segment has a spear? It has longer reach and might be able to reach the letter, but I'm not tall nor strong enough to actually be able to make the letter going away by stabbing it...
+
+MC: The last segment that opened has a stone. It's red? I'm not sure what a stone can do in this situation but the stones and rocks were what made me enter deeper into the cave in the first place, so there should be a purpose to this mysterious red stone...
+
+<Choice>
+1. Sword
+2. Spear
+3. Mysterious stone.
+
+
+
+
+
+"Fight golem, meet lady of the cave"

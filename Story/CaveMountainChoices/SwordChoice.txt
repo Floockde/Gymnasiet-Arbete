@@ -1,0 +1,25 @@
+MC: I picked the sword. 
+
+MC: I rush over to the segment with the sword and grab it.
+
+MC: It is an ordinary iron sword without anything remarkable about it.
+
+MC: I turn towards the golem and take a stand.
+
+Nat: The golem is approaching $Name and slows down in front of him. It then punches $Name.
+
+Nat: $Name evades to the side of the arm and tries to cut off the arm with the sword.
+
+Nat: But...
+
+*clang!!*
+
+MC: No way!
+
+Nat: That was the sound of the sword breaking in half.
+
+Nat: The golem them grab $Name and with its giant hand and throws him into the wall head first.
+
+Nat: And he died. 
+
+Nat: Oof.

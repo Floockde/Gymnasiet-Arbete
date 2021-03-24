@@ -1,0 +1,53 @@
+﻿2020-12-01
+
+Axel:
+Skapade CharacterName 
+
+Floock: 
+Började koda och designa formen. ¯\_(ツ)_/¯
+
+Alla:
+Skapade en möjlighet att namge sin karaktär. 
+
+--------------------------------------------------------------------
+
+2021-20-1
+
+Floock:
+koda och fixa bakgrund. ¯\_(ツ)_/¯
+
+Axel: 
+Löste problemet med genomskinlig bakgrund. 
+Skapade bakgrunden med träden.
+
+Alla:
+Leta information om hur man flytta text data från form1 till form2. Började skriva berättelse.
+
+--------------------------------------------------------------------
+
+2021-10-02
+
+Floock och Axel:
+Visualiserat hur kartan ska ser ut och skrivit story. Nästan klar med en plats berättelse.
+
+--------------------------------------------------------------------
+
+2021-17-02
+
+Floock och Axel:
+Forsätter med story'n.
+
+--------------------------------------------------------------------
+
+
+2021-28-02
+
+Floock:
+Story'n.
+
+
+--------------------------------------------------------------------
+
+2021-18-03
+Floock:
+Göra scripts till XML filer och försöker läsa filen i koden

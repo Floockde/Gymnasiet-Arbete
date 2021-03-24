@@ -1,0 +1,34 @@
+<xml>
+    <title>Story</title>
+    <text type="test">
+
+        <body>
+            <scene>
+                <p>MC: ...
+                    MC: I'm lost...
+
+                    MC: I was trying to foraging some herbs and medicine for my village...
+
+                    MC: I found some of the herbs, but then I was too into the foraging that I wasn't paying attention to my surrounding...
+
+                    MC: ...
+
+                    Nat: Some time go by while $name is walking around.
+
+                    MC: This isn't working. I'm gonna have to think harder.
+
+                    MC: Let's try again.</p>
+
+                <Choice>
+                    <alt>1. West: (going to lake-south or town-north)</alt>
+
+                    <alt>2. East: (going to cave/mountain or "not available in the beginning village")</alt>
+
+                    <alt>3. South: (Going to lake or not yet available village)</alt>
+
+                    <alt>4. North: (Going to town or cave)</alt>
+                </Choice>
+            </scene>
+        </body>
+    </text>
+</xml>
