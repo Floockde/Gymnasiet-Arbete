@@ -13,6 +13,7 @@ namespace Gymme
         public enum State
         {
             BEACH,
+            CAVE,
             BEACH_HOUSE,
             BEACH_HOUSE_RUINS,
             DIRT_ROAD,
