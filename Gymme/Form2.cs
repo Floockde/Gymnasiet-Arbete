@@ -20,10 +20,5 @@ namespace Gymme
         {
             label1.Text = Character.Instance.CharacterName;
         }
-
-        private void TbDialogueBox_TextChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }

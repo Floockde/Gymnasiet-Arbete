@@ -57,7 +57,6 @@
             this.TbDialogueBox.Size = new System.Drawing.Size(491, 61);
             this.TbDialogueBox.TabIndex = 5;
             this.TbDialogueBox.Text = "...";
-            this.TbDialogueBox.TextChanged += new System.EventHandler(this.TbDialogueBox_TextChanged);
             // 
             // BtDialNext
             // 

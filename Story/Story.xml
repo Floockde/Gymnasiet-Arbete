@@ -1,13 +1,13 @@
 <xml>
-    <title>Story</title>
-    <text type="test">
 
-        <body>
-            <scene>
-                <p>MC: ...
+<root>
+    <child>
+                <dialogue>
+                    MC: ...
+
                     MC: I'm lost...
 
-                    MC: I was trying to foraging some herbs and medicine for my village... (not drugs)
+                    MC: I was trying to foraging some herbs and medicine for my village...
 
                     MC: I found some of the herbs, but then I was too into the foraging that I wasn't paying attention to my surrounding...
 
@@ -17,7 +17,7 @@
 
                     MC: This isn't working. I'm gonna have to think harder.
 
-                    MC: Let's try again.</p>
+                    MC: Let's try again.</dialogue>
 
                 <Choice>
                     <alt>1. West: (going to lake-south or town-north)</alt>
@@ -28,7 +28,7 @@
 
                     <alt>4. North: (Going to town or cave)</alt>
                 </Choice>
-            </scene>
-        </body>
-    </text>
+
+    </child>
+</root>
 </xml>

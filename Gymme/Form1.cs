@@ -33,10 +33,5 @@ namespace Gymme
             Form2 f2 = new Form2(ref newform);
             f2.Show();
         }
-
-        private void NameTB_TextChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }

@@ -38,3 +38,13 @@ C:\Users\axelfal0126\Documents\Gymnasiet-Arbete\Gymme\obj\Debug\Gymme.csproj.Gen
 C:\Users\axelfal0126\Documents\Gymnasiet-Arbete\Gymme\obj\Debug\Gymme.csproj.CoreCompileInputs.cache
 C:\Users\axelfal0126\Documents\Gymnasiet-Arbete\Gymme\obj\Debug\Gymme.exe
 C:\Users\axelfal0126\Documents\Gymnasiet-Arbete\Gymme\obj\Debug\Gymme.pdb
+C:\Users\Administrator\OneDrive - Rättviks Kommun\source\Gymme\Gymnasiet-Arbete\Gymnasiet-Arbete\Gymme\bin\Debug\Gymme.exe.config
+C:\Users\Administrator\OneDrive - Rättviks Kommun\source\Gymme\Gymnasiet-Arbete\Gymnasiet-Arbete\Gymme\bin\Debug\Gymme.exe
+C:\Users\Administrator\OneDrive - Rättviks Kommun\source\Gymme\Gymnasiet-Arbete\Gymnasiet-Arbete\Gymme\bin\Debug\Gymme.pdb
+C:\Users\Administrator\OneDrive - Rättviks Kommun\source\Gymme\Gymnasiet-Arbete\Gymnasiet-Arbete\Gymme\obj\Debug\Gymme.csprojAssemblyReference.cache
+C:\Users\Administrator\OneDrive - Rättviks Kommun\source\Gymme\Gymnasiet-Arbete\Gymnasiet-Arbete\Gymme\obj\Debug\Gymme.Form1.resources
+C:\Users\Administrator\OneDrive - Rättviks Kommun\source\Gymme\Gymnasiet-Arbete\Gymnasiet-Arbete\Gymme\obj\Debug\Gymme.Form2.resources
+C:\Users\Administrator\OneDrive - Rättviks Kommun\source\Gymme\Gymnasiet-Arbete\Gymnasiet-Arbete\Gymme\obj\Debug\Gymme.Properties.Resources.resources
+C:\Users\Administrator\OneDrive - Rättviks Kommun\source\Gymme\Gymnasiet-Arbete\Gymnasiet-Arbete\Gymme\obj\Debug\Gymme.csproj.GenerateResource.cache
+C:\Users\Administrator\OneDrive - Rättviks Kommun\source\Gymme\Gymnasiet-Arbete\Gymnasiet-Arbete\Gymme\obj\Debug\Gymme.exe
+C:\Users\Administrator\OneDrive - Rättviks Kommun\source\Gymme\Gymnasiet-Arbete\Gymnasiet-Arbete\Gymme\obj\Debug\Gymme.pdb
