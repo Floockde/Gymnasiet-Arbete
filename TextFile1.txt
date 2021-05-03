@@ -51,3 +51,11 @@ Story'n.
 2021-18-03
 Floock:
 Göra scripts till XML filer och försöker läsa filen i koden
+
+--------------------------------------------------------------------
+
+2021-03-05
+Axel:
+Ändrade värden i Statemachine.
+
+--------------------------------------------------------------------

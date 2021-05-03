@@ -12,13 +12,17 @@ namespace Gymme
     {
         public enum State
         {
-            BEACH,
-            CAVE,
-            BEACH_HOUSE,
-            BEACH_HOUSE_RUINS,
-            DIRT_ROAD,
-            FUEL_STATION,
-            FUEL_STATION_ON_FIRE
+            FOREST,
+            FOREST_WEST,
+            FOREST_EAST,
+            FOREST_SOUTH,
+            FOREST_NORTH,
+            CAVE_MOUNTAIN,
+            CAVE_MOUNTAIN_OUTSIDE,
+            CAVE_MOUNTAIN_INSIDE,
+            LAKE,
+            TOWN,
+            HOME_VILLAGE
         }
         public enum Input
         {
@@ -27,22 +31,20 @@ namespace Gymme
             EAST,
             SOUTH
         }
-        bool isBeachHouseInRuins = false;
-        bool isFuelStationOnFire = false;
+        bool isVillageAvailable = false;
         State currentState;
 
         public StateMachine()
         {
-            currentState = State.BEACH;
-            isBeachHouseInRuins = false;
-            isFuelStationOnFire = false;
+            currentState = State.FOREST;
+            isVillageAvailable = false;
+          
         }
         public string Reset()
         {
             string message = "";
-            currentState = State.BEACH;
-            isBeachHouseInRuins = false;
-            isFuelStationOnFire = false;
+            currentState = State.FOREST;
+            isVillageAvailable = false;
             message = "";
             return message;
         }
@@ -55,83 +57,107 @@ namespace Gymme
             string message = "";
             switch (currentState)
             {
-                case State.BEACH:
+                case State.FOREST:
                     switch (input)
                     {
                         case Input.NORTH:
+                            currentState = State.FOREST_NORTH;
+                            message = "";
                             break;
                         case Input.WEST:
+                            currentState = State.FOREST_WEST;
+                            message = "";
                             break;
                         case Input.EAST:
+                            currentState = State.FOREST_EAST;
                             message = "";
                             break;
                         case Input.SOUTH:
-                            currentState = State.BEACH_HOUSE;
+                            currentState = State.FOREST_SOUTH;
                             message = "";
                             break;
                     }
                     break;
-                case State.BEACH_HOUSE:
+                case State.FOREST_WEST:
                     switch (input)
                     {
                         case Input.NORTH:
+                            currentState = State.TOWN;
+                            message = "";
                             break;
                         case Input.WEST:
                             break;
                         case Input.EAST:
-                            if (isBeachHouseInRuins)
+                            break;
+                        case Input.SOUTH:
+                            currentState = State.LAKE;
+                            message = "";
+                            break;
+                    }
+                    break;
+                case State.FOREST_EAST:
+                    switch (input)
+                    {
+                        case Input.NORTH:
+                            currentState = State.CAVE_MOUNTAIN_OUTSIDE;
+                            message = "";
+                            break;
+                        case Input.WEST:
+                            break;
+                        case Input.EAST:
+                            break;
+                        case Input.SOUTH:
+                            if (isVillageAvailable)
                             {
-                                currentState = State.BEACH_HOUSE_RUINS;
+                                currentState = State.HOME_VILLAGE;
                             }
                             else
                             {
-                                currentState = State.BEACH_HOUSE;
+                                currentState = State.FOREST;
+                            }
+                            break;
+                    }
+                    break;
+                case State.FOREST_SOUTH:
+                    switch (input)
+                    {
+                        case Input.NORTH:
+                            break;
+                        case Input.WEST:
+                            currentState = State.LAKE;
+                            message = "";
+                            break;
+                        case Input.EAST:
+                            if (isVillageAvailable)
+                            {
+                                currentState = State.HOME_VILLAGE;
+                            }
+                            else
+                            {
+                                currentState = State.FOREST;
                             }
                             break;
                         case Input.SOUTH:
                             break;
                     }
                     break;
-                case State.BEACH_HOUSE_RUINS:
+                case State.FOREST_NORTH:
                     switch (input)
                     {
                         case Input.NORTH:
                             break;
                         case Input.WEST:
+                            currentState = State.TOWN;
+                            message = "";
                             break;
                         case Input.EAST:
+                            currentState = State.CAVE_MOUNTAIN_OUTSIDE;
                             break;
                         case Input.SOUTH:
                             break;
                     }
                     break;
-                case State.DIRT_ROAD:
-                    switch (input)
-                    {
-                        case Input.NORTH:
-                            break;
-                        case Input.WEST:
-                            break;
-                        case Input.EAST:
-                            break;
-                        case Input.SOUTH:
-                            break;
-                    }
-                    break;
-                case State.FUEL_STATION:
-                    switch (input)
-                    {
-                        case Input.NORTH:
-                            break;
-                        case Input.WEST:
-                            break;
-                        case Input.EAST:
-                            break;
-                        case Input.SOUTH:
-                            break;
-                    }
-                    break;
-                case State.FUEL_STATION_ON_FIRE:
+                case State.CAVE_MOUNTAIN_OUTSIDE:
                     switch (input)
                     {
                         case Input.NORTH:
